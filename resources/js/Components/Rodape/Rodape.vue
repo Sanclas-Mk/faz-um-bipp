@@ -17,7 +17,7 @@
               <Link href="contato">Central de atendimento</Link>
             </li>
             <li class="pb-2">
-              <a href=""><strong>+55 (86) 8807-2323</strong></a>
+              <a href=""><strong>+55 (86) 98807-2323</strong></a>
             </li>
             <li class="pb-7">
               <a href="mailto:contato@bipp.com.br">contato@bipp.com.br</a>
